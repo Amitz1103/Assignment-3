@@ -1,0 +1,6 @@
+n=int(input("Enter a number: "))
+from math import *
+print("Square root of ",n,":",sqrt(n))
+print("Logarithm of ",n,":",log(n))
+print("Sine of ",n,":",sin(n))
+print ("Thank you")
